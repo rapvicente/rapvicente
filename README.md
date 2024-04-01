@@ -23,9 +23,9 @@ With a keen eye for detail and a hunger for knowledge, I'm constantly seeking op
 
 <br><br>
 
+
 <div align="center">
 
-  <a href="https://www.youtube.com/">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   
@@ -36,6 +36,7 @@ With a keen eye for detail and a hunger for knowledge, I'm constantly seeking op
   <a href="https://www.twitch.tv/">
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
+  <br>
 
   <a href="https://discord.com/">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -48,7 +49,7 @@ With a keen eye for detail and a hunger for knowledge, I'm constantly seeking op
   <a href="https://www.linkedin.com/login/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
+
 
 ###
 <br>
