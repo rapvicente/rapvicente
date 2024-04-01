@@ -1,122 +1,97 @@
+<html>
+  <hr>
+  <h1 align="center" style="font-size: 40; font-family: 'Times New Roman', Times, serif;">🦖 Welcome to my Profile 🦖 </h1>
+  <hr>
+<h2 align="center"> Hi, I'm Ralph Benedict Y. Vicente, and I'm passionate about technology. Currently in my second year as an IT student, I'm diving deep into the world of information technology to explore its limitless possibilities. From coding to networking, cybersecurity to database management, I thrive on the challenges and innovations that define this dynamic field.
+  
+With a keen eye for detail and a hunger for knowledge, I'm constantly seeking opportunities to expand my skills and understanding. Whether it's through coursework, personal projects, or involvement in IT communities, I'm committed to honing my abilities and staying at the forefront of technological advancements.
 
-
-<div align="center">
-  <img src="https://github.com/neekho/neekho/blob/main/.github/workflows/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.png?raw=true">
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=neekho.neekho&"  />
-</div>
 
 ###
 
-<h1 align="center">🦖 Welcome to my Read Me Page 🦖</h1>
-<h3 align="left">👩‍💻  About Me</h3>
-<p align="left">I'm Nikho Remulla from Makati<br><br>- 🔭 I’m working as a freelancer and lecturer<br>- 📚 I'm currently re-learning Selenium<br>- ⚡ In my free time I read books</p>
-
-
-
-I'm an aspring backend developer and a business owner creating a following online, one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I mainly use Java and Python for my backend, paired with either NoSQL or MySQL.
-
-
-
-
----
-
-<h3 align="left">🌐 Connect with me</h3>
 <div align="center">
 
   
-  <a href="https://www.linkedin.com/in/nikhorem/" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+
+
+###
+
+<img align="right" height="150" src="https://i.gifer.com/VAUu.gif"  />
+
+
+<div align="center">
+
+  <a href="https://www.youtube.com/">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  
+  <a href="https://www.instagram.com/">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+
+  <a href="https://www.twitch.tv/">
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+
+  <a href="https://discord.com/">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  
+  <a href="https://www.gmail.com/">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+
+  <a href="https://www.linkedin.com/login/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+<br>
+<br>
+<h2 align="left"> This are the languages I'm familiar with</h2>
+<div align="left">
+  <a href="https://www.w3schools.com/js/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="javascript logo" />
+  </a>
+  
+  <a href="https://www.w3schools.com/typescript/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
+  </a>
+  
+  <a href="https://www.w3schools.com/typescript/">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" /> 
+  </a>
+  
+  <a href="https://www.w3schools.com/python/">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  </a>
+  
+  <a href="https://www.w3schools.com/C#/">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo" />
   </a>
 
 
-   <a href="mailto:nikho.remulla@gmail.com?subject=From%20Github&body=Hello%20World!" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"           height="35" alt="gmail logo"  />
+
+  <a href="https://www.w3schools.com/html/">  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"/>
   </a>
 
 
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"       height="35" alt="discord logo"  />
-
-  </a>
-</div>
-
----
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react-logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
 
----
-<h3 align="left">🔥   My Stats :</h3>
+
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=neekho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
 
 ###
 
-<img src="https://raw.githubusercontent.com/neekho/neekho/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neekho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neekho&exclude_repo=2DUnity&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-
-</div>
-
-###
+</html>
