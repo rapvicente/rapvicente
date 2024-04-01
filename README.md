@@ -1,8 +1,8 @@
 <html>
   <hr>
-  <h1 align="center" style="font-size: 40; font-family: 'Times New Roman', Times, serif;">🦖 Welcome to my Profile 🦖 </h1>
+  <h1 align="left" style="font-size: 40; font-family: 'Times New Roman', Times, serif;">  <img align="center" width="15%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI2eHA3ZTNqOWlqNWhub2xpamdyeXpybWdmYmNhdnNzOGU0ZnptaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gWVURnPa6iLLi/giphy.gif">
+   Welcome to my Profile! </h1>
   <hr>
-
 
 <br>
 <p align="left"> Hi, I'm Ralph Benedict Y. Vicente, and I'm passionate about technology. Currently in my second year as an IT student, I'm diving deep into the world of information technology to explore its limitless possibilities. From coding to networking, cybersecurity to database management, I thrive on the challenges and innovations that define this dynamic field.
@@ -89,7 +89,7 @@ With a keen eye for detail and a hunger for knowledge, I'm constantly seeking op
 <p align="left">These are the programming languages I know. It's crucial to select the right language based on your interests, career goals, and project requirements. Each language has its own set of strengths and weaknesses, so conducting thorough research can help you determine which one aligns best with your objectives. Whether you're interested in web development, mobile app development, data analysis, or something else entirely, there's likely a programming language suited to your needs. Keep exploring and learning to expand your skill set and stay relevant in the ever-evolving field of technology.
 <br><br>
 
-<img src="https://raw.githubusercontent.com/neekho/neekho/output/snake.svg" alt="Snake animation" />
+<img width="100%" src="https://raw.githubusercontent.com/neekho/neekho/output/snake.svg" alt="Snake animation" />
 
 ###
 
